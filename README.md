@@ -20,9 +20,9 @@ Clone the repo.
 
 Run the main file:
 
-	```
-	src/cdot.py
-	```
+```
+src/cdot.py
+```
 
 ## Authors
 
